@@ -11,6 +11,7 @@ Anleitung zur remote Administrierung eines Hyper-V Servers ohne Mitglied einer D
 
 ## Hypervisor
 
+
 Zum Verwalten von Hyper-V-Remotehosts muss auf dem lokalen Computer und auf dem Remotehost die Remoteverwaltung aktiviert sein.
 
 Öffnen Sie dazu Windows `PowerShell` als Administrator, und führen Sie Folgendes aus:
