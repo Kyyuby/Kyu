@@ -22,7 +22,11 @@ Enable-PSRemoting
 ```powershell
 Enable-WSManCredSSP -Role server
 ```
+
+
 ---
+
+
 
 ## Lokaler PC
 
