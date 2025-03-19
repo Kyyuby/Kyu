@@ -1,5 +1,5 @@
-
-# Hyper-V Remotesteuerung
+# *OBSOLETE* 
+## Hyper-V Remotesteuerung
 
 Anleitung zur remote Administrierung eines Hyper-V Servers ohne Mitglied einer Domäne zu sein.
 
